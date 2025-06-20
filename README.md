@@ -70,6 +70,6 @@ streamlit run streamlit_app.py
 - Memory: Follow-up questions retain context
 - Answer highlighting: Shows supporting snippet
 
-## 📹 Demo
+## 📹 Click on image to watch the Demo
 
 [![Watch the demo video](https://img.youtube.com/vi/jGRytU9dVSI/0.jpg)](https://youtu.be/jGRytU9dVSI)
