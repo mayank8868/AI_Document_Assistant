@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+langchain
+faiss-cpu
+pdfplumber
+pymupdf
+huggingface-hub
+sentence-transformers
+python-dotenv
+requests
+httpx
+transformers 
